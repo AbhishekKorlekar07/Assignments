@@ -1,0 +1,15 @@
+prog9.cc: In function ‘bool unarySign(const char&, const string&, const unsigned int&)’:
+prog9.cc:19:28: warning: unused parameter ‘c’ [-Wunused-parameter]
+ bool unarySign(const char& c, const string& token, const unsigned& i){
+                            ^
+prog9.cc: In function ‘bool floatPoint(const char&, const string&, const unsigned int&)’:
+prog9.cc:27:29: warning: unused parameter ‘c’ [-Wunused-parameter]
+ bool floatPoint(const char& c, const string& token, const unsigned& i){
+                             ^
+    8.00
+    5.00
+   40.00
+    4.00
+   40.85
+    3.09
+   43.94
